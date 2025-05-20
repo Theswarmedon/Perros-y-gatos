@@ -1,4 +1,4 @@
 streamlit
-tensorflow
+tensorflow  # Compatible con Python 3.12 (es la versión más reciente que se puede probar)
 Pillow
 numpy
